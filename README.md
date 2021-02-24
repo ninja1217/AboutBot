@@ -1,7 +1,7 @@
 # AboutBot
 
 This Bot Can Assist People To Know About You, By Informing User About Information Like Your Name, Communities, Bots, Feds, etc. <br>
-For A Demo You Can Checkout [@ScarlettAssistant_Bot](https://t.me/ScarlettAssistant_Bot) <br>
+For A Demo You Can Checkout [@ScarlettAssistant_Bot](https://t.me/aboutninjabot) <br>
 (c)2021 [@StarDevs](https://t.me/StarDevs)
 
 # Main Display
