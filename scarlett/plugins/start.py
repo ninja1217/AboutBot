@@ -1,5 +1,5 @@
 #(c) @StarDevs
-#Developed By @anonyindian
+#Developed By @NINJA1217
 #Don't Copy Without Credits
 #Leechers Gonna Be Fucked Up
 from . import *
